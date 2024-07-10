@@ -35,4 +35,6 @@ Por motivos de seguridad siempre ha de haber la opción de parar el portón, tan
 
 Vídeo demo con los leds y pulsador: https://youtu.be/opwrNil0ub8 
 
+**Esquema:**
 
+![](https://github.com/Democrito/Control_porton_de_garaje/blob/main/Scheme.png)
