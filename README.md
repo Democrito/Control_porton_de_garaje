@@ -33,4 +33,6 @@ lo que ocurre es que anulamos la acción, y el portón se para.
 He visto portones que sólo abren o cierra y eso a mi modo de ver es que el programador de esos aparatos no se ha esmerado mucho.
 Por motivos de seguridad siempre ha de haber la opción de parar el portón, tanto al abrir como al cerrar.
 
+Vídeo demo con los leds y pulsador: https://youtu.be/opwrNil0ub8 
+
 
