@@ -1,4 +1,4 @@
-# Control de porton de garaje
+# Control de portón de garaje
 
 **Introducción:**
        
